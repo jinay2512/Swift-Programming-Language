@@ -8,14 +8,14 @@ SWIFT, is a combination of high-level programming language. SWIFT is a simple, b
 4. literals for each of the scalar data types integer, character, boolean, and string;
 5. statically-allocated global scope and program module local scope variables and constants; 
 6. an eclectic list of unary and binary operators;
-    6.1	Unary may include
-      6.1.1 The increment (++) and decrement (--) operators.
-      6.1.2 The unary minus (-) operator.
-      6.1.3 The logical not (!) operator.
-    6.2 Binary may include
-      6.2.1 addition (+) operator,
-      6.2.2 subtraction (-) operator
-      6.2.3 division (/) operator.
+    6.1. Unary may include
+      6.1.1. The increment (++) and decrement (--) operators.
+      6.1.2. The unary minus (-) operator.
+      6.1.3. The logical not (!) operator.
+    6.2. Binary may include
+      6.2.1. addition (+) operator,
+      6.2.2. subtraction (-) operator
+      6.2.3. division (/) operator.
 7. a multiple-assignment statement;
 8. several flow-of-control statements (a “standard” pretest FOR loop statement, a very interesting midtest DO-WHILE-DO loop statement, a standard IF statement, but no GOTO statement and no statement labels);
 9. PRINT and INPUT statements for interactive text input/output;
